@@ -15,7 +15,6 @@ I aim to master these skills to:
 - Design beautiful web interfaces with JS/CSS/HTML  
 
 ### ❤️ Why I code?  
-I believe code is a **🌍 tool to change the world**!  
 I admire developers who turn their imagination into reality – and I’m striving to become one too.  
 
 ### 🤝 Why open source?  
