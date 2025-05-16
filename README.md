@@ -9,7 +9,7 @@
 
 ### 🚀 Goals:  
 I aim to master these skills to:  
-- Build robust web backends with PHP  
+- Build powerful and secure web backends with PHP
 - Automate tasks and create useful tools with Python  
 - Bring game ideas to life with C#  
 - Design beautiful web interfaces with JS/CSS/HTML  
