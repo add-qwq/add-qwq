@@ -20,7 +20,7 @@ I admire developers who turn their imagination into reality – and I’m strivi
 ### 🤝 Why open source?  
 I look forward to contributing to the open-source community and learning from amazing developers worldwide. Let’s build something meaningful together!  
 
-### 🌱 The open-source community is great, some open-source projects have been very helpful to me*.  
+### 🌱 The open-source community is great, some open-source projects have been very helpful to me.  
 
 *feel free to connect or check out my projects! 💻✨*  
 
