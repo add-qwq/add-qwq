@@ -3,7 +3,7 @@
 ### Currently Learning:  
 - **PHP** _(Web backend development)_  
 - **Python** _Scripting tools & small application development)_  
-- **C#**  _(First steps toward game development 🎮)_  
+- **C#**  _(First steps toward game development)_  
 - **JavaScript**  _(Making web pages interactive)_  
 - **CSS/HTML**  _(Building beautiful web foundations)_  
 
