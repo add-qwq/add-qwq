@@ -22,7 +22,7 @@ I look forward to contributing to the open-source community and learning from am
 
 ### The open-source community is great, some open-source projects have been very helpful to me.  
 
-*feel free to connect or check out my projects! 💻✨*  
+*feel free to connect or check out my projects! *  
 
 ### My WebSite: https://www.rockaz.top/
 
