@@ -1,4 +1,4 @@
-# 👋 Hello! I'm [add-qwq], but you can also call me [Rock].  
+# 👋 Hello! I'm [add-qwq], but you can also call me [Rockaz].  
 
 ### Currently Learning:  
 - **PHP** _(Web backend development)_  
