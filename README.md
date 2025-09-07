@@ -1,5 +1,9 @@
 # 👋 Hello! I'm [add-qwq], but you can also call me [Rockaz].  
 
+<!--![add-qwq's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=add-qwq&hide=html&locale=en&hide_title=true)-->
+
+![add-qwq's GitHub stats](https://github-readme-stats.vercel.app/api?username=add-qwq&show_icons=true&locale=en&include_all_commits=true&count_private=true&hide=prs)
+
 ### Currently Learning:  
 - **PHP** _(Web backend development)_  
 - **Python** _Scripting tools & small application development)_  
