@@ -38,6 +38,6 @@ feel free to connect or check out my projects!
 
 Want to preview my web project without deploying it yourself?  
 
-🔗 [View Demo](https://www.rockaz.top/GitHub-Project-Demo/)  
+🔗 [View Demo](https://www.rockaz.top/github-project-demo/)  
 
 *Note: The website server is located in China, and for security defense purposes, it has blocked all traffic outside China.*
