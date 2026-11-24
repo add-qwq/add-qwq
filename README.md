@@ -18,7 +18,7 @@ Languages I’m continuously learning: PHP, Go, JavaScript, C#, Python. I’m st
 | **C#** | Game development / Mod development / Windows desktop applications |
 | **Python** | My efficiency improvement tools |
 
-### Why code?
+### Why do I code?
 I’ve always admired developers who can turn ideas into reality, and I’m working hard toward that goal.
 
 ### Why open source?
@@ -36,4 +36,4 @@ Want to try some of my frontend projects without local deployment?
 
 🔗 [View Demo](https://www.rockaz.cn/github-project-demo/)
 
-> Note: The website server is located in mainland China. Due to security policies, access from regions outside mainland China (including Hong Kong, Macao and Taiwan of China) is blocked.
+> Note: The website server is located within China. For security protection purposes, access from overseas regions other than mainland China, Hong Kong SAR, Macao SAR and Chinese Taiwan is blocked.
