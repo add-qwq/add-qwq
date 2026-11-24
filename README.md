@@ -18,7 +18,7 @@ Languages I’m continuously learning: PHP, Go, JavaScript, C#, Python. I’m st
 | **C#** | Game development / Mod development / Windows desktop applications |
 | **Python** | My efficiency improvement tools |
 
-### Why do I code?
+### Why code?
 I’ve always admired developers who can turn ideas into reality, and I’m working hard toward that goal.
 
 ### Why open source?
